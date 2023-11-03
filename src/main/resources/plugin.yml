@@ -1,0 +1,4 @@
+name: Explosive
+version: '${project.version}'
+main: org.explosivepl.explosive.Explosive
+api-version: '1.16'
